@@ -1,0 +1,4 @@
+#Scrabble Solver
+#v1: get words given a set of valid letters
+#v2: get words given a set of letters, as well as letters that are already placed
+#v3: get words given a set of letters, as well as letters that are already placed, and consider bonus scores
